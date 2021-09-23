@@ -1,0 +1,1 @@
+This is Demir's first Git project!
